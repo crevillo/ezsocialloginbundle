@@ -9,10 +9,9 @@
       "homepage": "https://github.com/crevillo/EzSocialLoginBundle/graphs/contributors"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
-    "ezsystems/ezpublish-kernel": "~5.4|~6.0@dev|^7.0",
-    "hwi/oauth-bundle": "1.0.0"
+    "ezsystems/ezpublish-kernel": "7.*",
+    "hwi/oauth-bundle": "0.6.*"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.7",
